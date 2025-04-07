@@ -9,18 +9,16 @@
       "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    }   
-},{
+     },
       "GITHUB_TOKEN": {
       "description": "Put the Github token without ghp_ here.",
-      "required": true
-    }   
-},{
+      "required": true  
+},
       "GITHUB_USERNAME": {
       "description": "Put the github username here.",
-      "required": true
-    }   
-},
+      "required": true 
+}
+  },
 
      "buildpacks": [
         {
