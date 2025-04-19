@@ -43,9 +43,9 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~iY9XiRDK#Aaa9m8fV77phfJx1LA-CUYRkUIljW2mxI3fOTBRrx_4",
     GITHUB_TOKEN: process.env.GITHUB_TOKEN || "u6YUc3qJ4Z1cRX5srmBkV0f2v0TJyG1jqFT2",
     GITHUB_USERNAME: process.env.GITHUB_USERNAME || "wpmenuka",
-    SUDO: process.env.SUDO ? process.env.SUDO.split(",") : ["94741321391", "94768504703","94755616554"],
+    SUDO: process.env.SUDO ? process.env.SUDO.split(",") : ["94741321391", "94768504703","94755616554", "94762862143"],
     PORT: process.env.PORT || "8000",
     SESSION_DIR: process.env.SESSION_DIR || "session",
-    FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n\ud83c\udf1f Premium Version | Advanced Features | Secure & Reliable \ud83c\udf1f\n\u00a9 2025 QUEEN ANJU XPRO. All rights reserved." 
+    FOOTER: process.env.FOOTER || "🎬 KMS Movie Club 🎥" 
   };
   
