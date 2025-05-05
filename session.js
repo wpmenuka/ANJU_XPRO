@@ -43,7 +43,7 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~6B1llKKS#qsmDqBbe_t7xwkGJOjMVqpjFxax3pDgVsPCxu5rb554",
     GITHUB_TOKEN: process.env.GITHUB_TOKEN || "W5J76q2fOokYvmRJ73s2Pudjsj0TNh2hohyv",
     GITHUB_USERNAME: process.env.GITHUB_USERNAME || "wpmenuka",
-    SUDO: process.env.SUDO ? process.env.SUDO.split(",") : ["94741321391", "94768504703","94755616554", "94762862143","94729224013","94771273552","94787437303"],
+    SUDO: process.env.SUDO ? process.env.SUDO.split(",") : ["94741321391", "94768504703","94755616554", "94762862143","94729224013","94771273552","94787437303","94761731783"],
     PORT: process.env.PORT || "8000",
     SESSION_DIR: process.env.SESSION_DIR || "session",
     FOOTER: process.env.FOOTER || "🎬 KMS Movie Club 🎥" 
